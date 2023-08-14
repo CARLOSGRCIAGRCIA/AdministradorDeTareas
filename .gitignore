@@ -1,0 +1,20 @@
+# Ignorar archivos y directorios generados por el entorno de desarrollo
+/target/
+/out/
+/bin/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de compilación y ejecución
+*.class
+
+# Ignorar archivos temporales y de respaldo
+*~
+*.swp
+*.bak
+
+# Ignorar archivos de configuración de Gradle
+.gradle/
+build/
