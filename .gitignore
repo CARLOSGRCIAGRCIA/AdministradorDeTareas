@@ -9,7 +9,7 @@
 
 # Ignorar archivos de compilación y ejecución
 *.class
-
+/out/
 # Ignorar archivos temporales y de respaldo
 *~
 *.swp
